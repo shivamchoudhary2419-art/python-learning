@@ -1,0 +1,4 @@
+Alice,20,A
+Charlie,21,A
+David,23,C
+Eve,20,B
