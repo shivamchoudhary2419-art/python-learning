@@ -1,0 +1,42 @@
+[
+    {
+        "name": "rahul",
+        "marks": "60",
+        "branch": "EE"
+    },
+    {
+        "name": "owl",
+        "marks": "55",
+        "branch": "ME"
+    },
+    {
+        "name": "aryan",
+        "marks": "46",
+        "branch": "CSE"
+    },
+    {
+        "name": "wax",
+        "marks": "67",
+        "branch": "SCE"
+    },
+    {
+        "name": "rahul ",
+        "marks": "60",
+        "branch": "SCE"
+    },
+    {
+        "name": "aryan",
+        "marks": "55",
+        "branch": "CSE"
+    },
+    {
+        "name": "rahul",
+        "marks": "45",
+        "branch": "SCE"
+    },
+    {
+        "name": "shivam",
+        "marks": "39",
+        "branch": "CSE"
+    }
+]
