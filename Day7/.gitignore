@@ -1,0 +1,4 @@
+students.db
+**pycache**/
+*.pyc
+.vscode/
